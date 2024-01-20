@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Preview](./img/hyggex.png?raw=true)
+![Preview](./src/components/hyggex.png?raw=true)
 
 
 ## Building Vite-App assignment for the Hyggex Company.
